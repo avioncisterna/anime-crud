@@ -1,0 +1,76 @@
+{
+  "animes": {
+    "1": {
+      "nombre": "Akira",
+      "genero": "Seinen",
+      "año": "1988",
+      "autor": "Katsuhiro Otomo"
+    },
+    "2": {
+      "nombre": "Dragon Ball",
+      "genero": "Shonen",
+      "año": "1986",
+      "autor": "Akira Toriyama"
+    },
+    "3": {
+      "nombre": "Sailor Moon",
+      "genero": "Shojo",
+      "año": "1992",
+      "autor": "Naoko Takeuchi"
+    },
+    "4": {
+      "nombre": "Naruto",
+      "genero": "Shonen",
+      "año": "2002",
+      "autor": "Masashi Kishimoto"
+    },
+    "5": {
+      "nombre": "Neon Genesis Evangelion",
+      "genero": "Mecha",
+      "año": "1995",
+      "autor": "Yoshiyuki Sadamoto"
+    },
+    "6": {
+      "nombre": "Sakamichi no Apollon",
+      "genero": "Josei",
+      "anio": "2012",
+      "autor": "Shinichiro Watanabe"
+    },
+    "7": {
+      "nombre": "Osomatsu",
+      "genero": "Comedia",
+      "año": "2015",
+      "autor": "Fujio Akatsuka"
+    },
+    "8": {
+      "nombre": "Utena",
+      "genero": "Shojo",
+      "año": "1989",
+      "autor": "Kunihiko Ikuhara"
+    },
+    "9": {
+      "nombre": "The Promised Neverland",
+      "genero": "Shonen",
+      "anio": "2019",
+      "autor": "Kaiu Shirai"
+    },
+    "10": {
+      "nombre": "Monster",
+      "genero": "Seinen",
+      "anio": "2004",
+      "autor": "Naoki Urasawa"
+    },
+    "11": {
+      "nombre": "Mawaru Penguindrum",
+      "genero": "Shojo",
+      "anio": "2012",
+      "autor": "Kunihiko Ikuhara"
+    },
+    "12": {
+      "nombre": "Shirokuma Cafe",
+      "genero": "Josei",
+      "año": "2013",
+      "autor": "Aloha Higa"
+    }
+  }
+}
